@@ -1,0 +1,4 @@
+Wed Jul 05 2023,Digital Camera,bad,Negative
+Wed Jul 05 2023,Digital Camera,bad,Negative
+Wed Jul 05 2023,Video Games, okay,Neutral
+Wed Jul 05 2023,Video Games, okay,Neutral
